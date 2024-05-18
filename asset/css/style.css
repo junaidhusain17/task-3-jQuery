@@ -1,0 +1,16 @@
+nav a img.d-inline-block {
+    width: 214px;
+}
+
+.error {
+    color: red;
+}
+
+.form-error {
+    border: 2px solid red;
+}
+
+.valid {
+    border: 2px solid #3edc60;
+    /* color: #495057; Set the text color for valid input  */
+}
